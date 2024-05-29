@@ -2,7 +2,7 @@
 参考https://github.com/conweave-project/conweave-ns3 中Run NS-3 on Ubuntu 20.04进行配置即可，基本使用在该文档中均可见到。
 
 # 实验图复现
-实验数据从云盘下载https://cloud.189.cn/t/3A3muiJNzANn （访问码：6jo5）
+实验数据从云盘下载 https://cloud.189.cn/t/MJNZbmyQf2Ir （访问码：3grt）
 
 将指定的数据复制到mix/output目录下，同时复制.history中的内容
 
